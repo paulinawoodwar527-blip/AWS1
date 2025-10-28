@@ -1,4 +1,3 @@
-# Robert H.
 import json
 import boto3
 

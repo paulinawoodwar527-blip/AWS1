@@ -1,4 +1,3 @@
-# Robert H.
 import boto3
 
 autoscaling = boto3.client('autoscaling')

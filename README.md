@@ -279,4 +279,4 @@ MIT License. See `LICENSE` file for details.
 
 ## 👤 Author
 
-Robert Harrison
+Super Developer

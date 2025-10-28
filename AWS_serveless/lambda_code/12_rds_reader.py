@@ -1,4 +1,3 @@
-# Robert H.
 import json
 import pymysql
 import boto3

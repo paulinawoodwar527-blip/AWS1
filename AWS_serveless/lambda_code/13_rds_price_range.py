@@ -1,4 +1,3 @@
-# Robert H.
 import boto3
 import pymysql
 import time

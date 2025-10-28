@@ -1,4 +1,3 @@
-# Robert H.
 import boto3
 
 elbv2 = boto3.client('elbv2')
